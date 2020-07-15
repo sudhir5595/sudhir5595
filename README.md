@@ -31,7 +31,9 @@
 ### Languages and Tools
 
 **C++**
+
 **Python**
+
 **Pytorch**
 
 
