@@ -13,9 +13,9 @@
 <br />
 
 
-**I am Into , 🙏**
+**Area of Research**
 
-**Machine Learning, 3D Deep Learning, Computer Graphics, CAD & Competetive Programming 😼**
+**Machine Learning, 3D Deep Learning, Computer Graphics, CAD**
 <br />
 
 
