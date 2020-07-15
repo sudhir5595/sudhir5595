@@ -30,9 +30,9 @@
 
 ### Languages and Tools
 
-**C++
-**Python
-**Pytorch
+**C++**
+**Python**
+**Pytorch**
 
 
 <!--
