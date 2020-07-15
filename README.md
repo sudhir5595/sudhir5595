@@ -28,7 +28,11 @@
 
 <br />
 
-### - Languages and Tools...
+### Languages and Tools
+
+**C++
+**Python
+**Pytorch
 
 
 <!--
