@@ -16,7 +16,7 @@
 <br />
 
 
-**Area of Research**
+### Area of Research
 
 **Machine Learning, 3D Deep Learning, Computer Graphics, CAD**
 <br />
