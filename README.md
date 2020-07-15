@@ -25,12 +25,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
 
-<br />
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
-<br />
-
-
 <!--
 **sudhir5595/sudhir5595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
