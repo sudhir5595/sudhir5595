@@ -34,7 +34,13 @@
 
 **Python**
 
-**Pytorch**
+**PyTorch**
+
+**LaTeX**
+
+**MATLAB**
+
+**CUDA**
 
 
 <!--
