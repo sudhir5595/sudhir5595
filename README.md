@@ -7,7 +7,7 @@
 <a href="https://leetcode.com/sudhirshinde58/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
+
 <br/>
 <!--
 **sudhir5595/sudhir5595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
