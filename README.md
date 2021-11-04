@@ -34,11 +34,7 @@
 
 **Python**
 
-**PyTorch**
-
-**LaTeX**
-
-**MATLAB**
+**TensorFlow**
 
 **CUDA**
 
