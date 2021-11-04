@@ -4,9 +4,9 @@
 <a href="https://www.linkedin.com/in/sudhir-shinde-198088118/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com/sudhirshinde58/">
+<!-- <a href="https://leetcode.com/sudhirshinde58/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+</a> -->
 <a href="https://medium.com/@sudhirshinde.iitb">
   <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
